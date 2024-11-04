@@ -48,4 +48,4 @@ This project provides a data collection, processing, and analysis process for th
 
 This analysis provides valuable insights into optimizing content strategy and enhancing audience engagement for the channel.
 
-![Teneke Kafalar Analizi Görseli](https://github.com/bugrahansimsek/TenekeKafalarTwitch-YoutubeChannel-Analysis/blob/main/Teneke%20Kafalar%20Twitch.gif)
+![Teneke Kafalar Analizi Görseli](https://github.com/bugrahansimsek/TenekeKafalarTwitch-YoutubeChannel-Analysis/blob/main/TenekeKafalarTwitch.gif)
