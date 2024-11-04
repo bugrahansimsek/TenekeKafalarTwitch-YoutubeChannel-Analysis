@@ -47,3 +47,5 @@ This project provides a data collection, processing, and analysis process for th
 - **Distribution by Video Type**: Compares the performance of Shorts and standard videos in terms of views.
 
 This analysis provides valuable insights into optimizing content strategy and enhancing audience engagement for the channel.
+
+![Teneke Kafalar Analizi Görseli](https://github.com/bugrahansimsek/TenekeKafalarTwitch-YoutubeChannel-Analysis/blob/main/Teneke%20Kafalar%20Twitch.gif)
